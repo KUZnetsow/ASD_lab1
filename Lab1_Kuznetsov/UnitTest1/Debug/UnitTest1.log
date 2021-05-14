@@ -1,0 +1,33 @@
+﻿  UnitTest1.cpp
+C:\Users\Kirill\source\repos\Lab1_Kuznetsov\Lab1_Kuznetsov\Lab1_Kuznetsov.h(285,16): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Kirill\source\repos\Lab1_Kuznetsov\Lab1_Kuznetsov\Lab1_Kuznetsov.h(278): message : во время компиляции функции-члена класс шаблон "void RBTree<K,V>::remove(K)"
+          with
+          [
+              K=std::string,
+              V=int
+          ]
+C:\Users\Kirill\source\repos\Lab1_Kuznetsov\Lab1_Kuznetsov\Lab1_Kuznetsov.h(377): message : выполняется компиляция ссылки на экземпляр шаблон функции "void RBTree<K,V>::remove(K)"
+          with
+          [
+              K=std::string,
+              V=int
+          ]
+C:\Users\Kirill\source\repos\Lab1_Kuznetsov\Lab1_Kuznetsov\Lab1_Kuznetsov.h(400): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "RBTree<K,V>"
+          with
+          [
+              K=std::string,
+              V=int
+          ]
+C:\Users\Kirill\source\repos\Lab1_Kuznetsov\Lab1_Kuznetsov\Lab1_Kuznetsov.h(399): message : во время компиляции функции-члена класс шаблон "std::vector<V,std::allocator<V>> Map<std::string,V>::get_values(void)"
+          with
+          [
+              V=int
+          ]
+C:\Users\Kirill\source\repos\Lab1_Kuznetsov\UnitTest1\UnitTest1.cpp(119): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<V,std::allocator<V>> Map<std::string,V>::get_values(void)"
+          with
+          [
+              V=int
+          ]
+C:\Users\Kirill\source\repos\Lab1_Kuznetsov\UnitTest1\UnitTest1.cpp(12): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Map<std::string,int>"
+     Создается библиотека C:\Users\Kirill\source\repos\Lab1_Kuznetsov\Debug\UnitTest1.lib и объект C:\Users\Kirill\source\repos\Lab1_Kuznetsov\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Kirill\source\repos\Lab1_Kuznetsov\Debug\UnitTest1.dll

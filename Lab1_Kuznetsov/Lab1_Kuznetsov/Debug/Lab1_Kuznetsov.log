@@ -1,0 +1,27 @@
+﻿  Lab1_Kuznetsov.cpp
+C:\Users\Kirill\source\repos\Lab1_Kuznetsov\Lab1_Kuznetsov\Lab1_Kuznetsov.h(406,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kirill\source\repos\Lab1_Kuznetsov\Lab1_Kuznetsov\Lab1_Kuznetsov.h(403): message : во время компиляции функции-члена класс шаблон "void Map<std::string,std::string>::print(void)"
+C:\Users\Kirill\source\repos\Lab1_Kuznetsov\Lab1_Kuznetsov\Lab1_Kuznetsov.cpp(14): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Map<std::string,std::string>::print(void)"
+C:\Users\Kirill\source\repos\Lab1_Kuznetsov\Lab1_Kuznetsov\Lab1_Kuznetsov.cpp(6): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Map<std::string,std::string>"
+C:\Users\Kirill\source\repos\Lab1_Kuznetsov\Lab1_Kuznetsov\Lab1_Kuznetsov.h(285,16): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Kirill\source\repos\Lab1_Kuznetsov\Lab1_Kuznetsov\Lab1_Kuznetsov.h(278): message : во время компиляции функции-члена класс шаблон "void RBTree<K,V>::remove(K)"
+          with
+          [
+              K=std::string,
+              V=std::string
+          ]
+C:\Users\Kirill\source\repos\Lab1_Kuznetsov\Lab1_Kuznetsov\Lab1_Kuznetsov.h(377): message : выполняется компиляция ссылки на экземпляр шаблон функции "void RBTree<K,V>::remove(K)"
+          with
+          [
+              K=std::string,
+              V=std::string
+          ]
+C:\Users\Kirill\source\repos\Lab1_Kuznetsov\Lab1_Kuznetsov\Lab1_Kuznetsov.h(404): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "RBTree<K,V>"
+          with
+          [
+              K=std::string,
+              V=std::string
+          ]
+C:\Users\Kirill\source\repos\Lab1_Kuznetsov\Lab1_Kuznetsov\Lab1_Kuznetsov.h(403): message : во время компиляции функции-члена класс шаблон "void Map<std::string,std::string>::print(void)"
+C:\Users\Kirill\source\repos\Lab1_Kuznetsov\Lab1_Kuznetsov\Lab1_Kuznetsov.cpp(14): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Map<std::string,std::string>::print(void)"
+  Lab1_Kuznetsov.vcxproj -> C:\Users\Kirill\source\repos\Lab1_Kuznetsov\Debug\Lab1_Kuznetsov.exe
